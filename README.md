@@ -11,10 +11,10 @@ I am passionate about technology 💻, personal and professional development �
 - 📖 My favorite book is 'The Clean Coder' by Robert Cecil Martin (Give it a try 😉)
 
 - 📫 How to reach me:
-  * [twitter](https://www.twitter.com/langelcabrera),
-  * [linkedin](https://www.linkedin.com/in/angel-cabrera/)
+  * [Twitter](https://www.twitter.com/langelcabrera)
+  * [Linkedin](https://www.linkedin.com/in/angel-cabrera/)
   * [soyangelcabrera@gmail.com](mailto:soyangelcabrera@gmail.com)
-  * [platzi](https://www.platzi.com/@iangelcabrera)
+  * [Platzi](https://www.platzi.com/@iangelcabrera)
 
 <!--
 **AngelCabrera/angelcabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
