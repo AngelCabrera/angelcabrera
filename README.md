@@ -16,6 +16,12 @@ I am passionate about technology 💻, personal and professional development �
   * [soyangelcabrera@gmail.com](mailto:soyangelcabrera@gmail.com)
   * [Platzi](https://www.platzi.com/@iangelcabrera)
 
+- Proud to have created these magnificent sites:
+ * https://meetingfy.io/
+ * https://eventfy.io/
+ * https://jailhead.com/
+ * https://xrhub.art/
+
 <!--
 **AngelCabrera/angelcabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
