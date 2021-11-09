@@ -4,7 +4,7 @@
 
 I am passionate about technology 💻, personal and professional development 🤓, sports 🏋🏽 and dance 🕺🏽.
 
-- 🔭 I’m currently working at [The Futures](https://www.thefutures.io) as Tech Lead and FullStack Web Developer.
+- 🔭 I’m currently working at [Nextreality Digital](https://www.nextreality.digital) as Tech Lead and FullStack Web Developer.
 - 🌱 I’m currently learning Advanced Frontend Development with Vue and React, Backend Software Architecture, Best programming practices and working in 3D/VR/AR stunning experiences.
 - 👯 I’m looking to collaborate on open-source projects or high social impact projects.
 - 💬 Ask me about whatever you want, I'm open to help or share.
