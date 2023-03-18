@@ -17,6 +17,7 @@ I am passionate about technology ðŸ’», personal and professional development ðŸ¤
   * [Platzi](https://www.platzi.com/@iangelcabrera)
 
 - Proud to have created these magnificent sites:
+  * https://nextreality.digital
   * https://eventfy.io/
   * https://onland.io/
   * https://xrhub.art/
