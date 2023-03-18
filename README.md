@@ -19,11 +19,11 @@ I am passionate about technology ðŸ’», personal and professional development ðŸ¤
 - Proud to have created these magnificent sites:
   * https://meetingfy.io/
   * https://eventfy.io/
-  * https://jailhead.com/
+  * https://onland.io/
   * https://xrhub.art/
 
 - I have also worked on other great products such as:
-  * https://www.placeart.app/
+  * https://www.placeart.io/
   * https://thefutures.io/
 
 <!--
