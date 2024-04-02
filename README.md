@@ -11,7 +11,6 @@ I am passionate about technology 💻, personal and professional development �
 - 📖 My favorite book is 'The Clean Coder' by Robert Cecil Martin (Give it a try 😉)
 
 - 📫 How to reach me:
-  * [Twitter](https://www.twitter.com/langelcabrera)
   * [Linkedin](https://www.linkedin.com/in/angel-cabrera/)
   * [soyangelcabrera@gmail.com](mailto:soyangelcabrera@gmail.com)
   * [Platzi](https://www.platzi.com/@iangelcabrera)
