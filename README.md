@@ -17,13 +17,11 @@ I am passionate about technology ðŸ’», personal and professional development ðŸ¤
   * [Platzi](https://www.platzi.com/@iangelcabrera)
 
 - Proud to have created these magnificent sites:
+  * https://mud.foundation/
   * https://nextreality.digital
-  * https://eventfy.io/
   * https://onland.io/
-  * https://xrhub.art/
 
 - I have also worked on other great products such as:
-  * https://www.placeart.io/
   * https://thefutures.io/
 
 <!--
